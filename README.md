@@ -4,11 +4,11 @@ Game demo: http://raboninco.com/29Ids
 
 game screenshot:
 
-Login:
-[url=https://postimg.cc/4nqXLFJJ]
+# Login:
+# https://postimg.cc/4nqXLFJJ]
 
-Register:
-[url=https://postimg.cc/qgzkGdHb]
+# Register:
+# https://postimg.cc/qgzkGdHb]
 
-Game:
-[url=https://postimg.cc/FkdNF0x5]
+# Game:
+# https://postimg.cc/FkdNF0x5]
